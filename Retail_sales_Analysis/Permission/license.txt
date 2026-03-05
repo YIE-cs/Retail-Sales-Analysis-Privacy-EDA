@@ -1,0 +1,4 @@
+Dataset: Dirty Retail Store Sales
+source: https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Author: Ahmed Mohamed
