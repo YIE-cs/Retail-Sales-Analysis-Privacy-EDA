@@ -32,6 +32,21 @@ Process and anonymise a retail transaction dataset, perform exploratory data ana
 - Python, pandas, matplotlib, seaborn
 - Visualisation experiment: Bokeh (interactive plots)
 
+## Dataset
+- **File**: `data/retail_store_sales.csv`
+- **License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Source**: [Insert original source here — e.g. "Provided for university coursework" / Kaggle link / etc.]
+- **Original creator**: [Name/organization if known, or "Original dataset authors" if unknown]
+- **Changes made in this repo**:
+  - In `coursework2`: Removed direct identifiers (`Transaction ID`, `Customer ID`) → see `data/retail_store_sales_anonymised.csv`
+  - Minor cleaning, feature engineering, and analysis in notebooks
+
+This dataset is redistributed here in compliance with CC BY-SA 4.0.  
+You may share and adapt it, provided you give appropriate credit and license any modifications under CC BY-SA 4.0 (or compatible later version).  
+Full license: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+**Note**: The derived/anonymized file is a modification and is therefore also licensed under CC BY-SA 4.0.
+
 ## How to run
 ```bash
 pip install -r requirements.txt
